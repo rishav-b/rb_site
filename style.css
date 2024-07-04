@@ -28,7 +28,7 @@ p {
     text-align: center;
     font-family: "mySans";
 } 
-.button {
+a.button {
     text-align: center;
     margin: 20px;
     font-size: 20px;
