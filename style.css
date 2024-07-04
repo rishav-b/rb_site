@@ -94,13 +94,13 @@ a.button {
 }
 
 .light{
-background: -moz-linear-gradient(-45deg,  #FF00AA 0%, #FF00AA 40%, #FF90DA 50%, #FF00AA 60%, #FF00AA 100%);
-background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#FF00AA), color-stop(40%,#FF00AA), color-stop(50%,#FF90DA), color-stop(60%,#FF00AA), color-stop(100%,#FF00AA));
-background: -webkit-linear-gradient(-45deg,  #FF00AA 0%,#FF00AA 40%,#FF90DA 50%,#FF00AA 60%,#FF00AA 100%);
-background: -o-linear-gradient(-45deg,  #FF00AA 0%,#FF00AA 40%,#FF90DA 50%,#FF00AA 60%,#FF00AA 100%);
-background: -ms-linear-gradient(-45deg,  #FF00AA 0%,#FF00AA 40%,#FF90DA 50%,#FF00AA 60%,#FF00AA 100%);
-background: linear-gradient(135deg,  #FF00AA 0%,#FF00AA 40%,#FF90DA 50%,#FF00AA 60%,#FF00AA 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF00AA', endColorstr='#FF00AA',GradientType=1 );
+background: -moz-linear-gradient(-45deg,  #0070DA 0%, #0070DA 40%, #5DB0FF 50%, #0070DA 60%, #0070DA 100%);
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#0070DA), color-stop(40%,#0070DA), color-stop(50%,#5DB0FF), color-stop(60%,#0070DA), color-stop(100%,#0070DA));
+background: -webkit-linear-gradient(-45deg,  #0070DA 0%,#0070DA 40%,#5DB0FF 50%,#0070DA 60%,#0070DA 100%);
+background: -o-linear-gradient(-45deg,  #0070DA 0%,#0070DA 40%,#5DB0FF 50%,#0070DA 60%,#0070DA 100%);
+background: -ms-linear-gradient(-45deg,  #0070DA 0%,#0070DA 40%,#5DB0FF 50%,#0070DA 60%,#0070DA 100%);
+background: linear-gradient(135deg,  #0070DA 0%,#0070DA 40%,#5DB0FF 50%,#0070DA 60%,#0070DA 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0070DA', endColorstr='#0070DA',GradientType=1 );
 background-repeat: no-repeat;  
 background-position:0px;
 background-size:300%;  
