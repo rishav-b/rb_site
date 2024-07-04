@@ -3,48 +3,27 @@
     src: url("sf-pro-text-medium-webfont.woff2") format("woff2");
 }
 
-
-h1 {
-    text-align: center;
-    font-family: "Roboto";
-    font-size: 100px;
+.navbar ul{
+    list-style-type: none;
+    background-color: #031e70;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
 }
-.confetti-button{
-    background-color: black;
-    border: none;
-    border-radius: 18px;
+.navbar a{
     color: white;
-    padding: 15px 32px;
-    font-family: "myDisplay";
-    text-align: center;
     text-decoration: none;
-    display: inline-block;
-    font-size: 80px;
-     margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-  }
-  .confetti-button:hover {
-    background-color: #FF00AA;
-    box-shadow: 0 15px 25px rgba(255, 0, 170, .4);
-  }
-  
-  .header { 
-    width: 100%;
-    text-allign: Center;
-    position: fixed;
-    background-color: rgb(40,40,40);
-    color: white;
-  }
-  
-  a.button {
+    font-family: font;
+    font-size: 20px;
+    padding: 15px;
+    display: block;
+    text-align: center;
+} 
+  .navbar a .button {
     text-align: center;
     margin: 20px;
     font-size: 100px;
-    font-family: "Roboto";
+    font-family: "myDisplay";
     text-decoration: none;
 }
 
