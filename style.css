@@ -24,7 +24,7 @@
     display: block;
     text-align: center;
 } 
-  .navbar a .button {
+  .navbar a button {
     text-align: center;
     margin: 20px;
     font-size: 100px;
