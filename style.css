@@ -18,6 +18,17 @@
 p {
     font-family: "mySans";
 }
+h1 {
+    font-family: "myDisplay";
+    font-size: 100;
+}
+button.highlighted {
+    font-family: "myDisplay";
+    font-size: 100;
+    border: none;
+    border-radius: 30px;
+    background-color: #0070DA;
+}
 .navbar a{
     color: black;
     text-decoration: none;
