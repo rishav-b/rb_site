@@ -10,7 +10,7 @@
 
 .navbar ul{
     list-style-type: none;
-    background-color: #E8E8E8;
+    background-color: #fff;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
@@ -30,7 +30,7 @@
     font-size: 20px;
     font-family: "mySans";
     text-decoration: none;
-    background-color: #E8E8E8;
+    background-color: #fff;
     border: none;
 }
 
@@ -61,4 +61,12 @@
             transform: translateX(10px);
         }
     }
+}
+
+.navbar li{
+    float: left;
+}
+
+.navbar a:hover{
+    box-shadow: 0 15px 25px rgba(232, 232, 232, .4);
 }
