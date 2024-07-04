@@ -10,7 +10,7 @@
 
 .navbar ul{
     list-style-type: none;
-    background-color: #031e70;
+    background-color: #E8E8E8;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
@@ -30,6 +30,8 @@
     font-size: 20px;
     font-family: "mySans";
     text-decoration: none;
+    background-color: #E8E8E8;
+    border: none;
 }
 
 .arrow {
