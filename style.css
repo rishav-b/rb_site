@@ -33,6 +33,7 @@ button.highlighted {
     border: none;
     border-radius: 30px;
     background-color: #0070DA;
+    color: white;
 }
 .navbar a{
     color: black;
