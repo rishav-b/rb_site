@@ -15,6 +15,9 @@
     margin: 0px;
     overflow: hidden;
 }
+p {
+    font-family: "mySans";
+}
 .navbar a{
     color: black;
     text-decoration: none;
