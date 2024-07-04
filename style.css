@@ -24,11 +24,12 @@ p {
 }
 h1 {
     font-family: "myDisplay";
-    font-size: 100;
+    font-size: 100px;
+    text-align: center;
 }
 button.highlighted {
     font-family: "myDisplay";
-    font-size: 100;
+    font-size: 100px;
     border: none;
     border-radius: 30px;
     background-color: #0070DA;
