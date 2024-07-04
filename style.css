@@ -92,3 +92,46 @@ a.button {
 .navbar a:hover{
     box-shadow: 0 10px 10px rgba(0, 0, 0, .2);
 }
+
+.light{
+background: -moz-linear-gradient(-45deg,  #FF00AA 0%, #FF00AA 40%, #FF90DA 50%, #FF00AA 60%, #FF00AA 100%);
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#FF00AA), color-stop(40%,#FF00AA), color-stop(50%,#FF90DA), color-stop(60%,#FF00AA), color-stop(100%,#FF00AA));
+background: -webkit-linear-gradient(-45deg,  #FF00AA 0%,#FF00AA 40%,#FF90DA 50%,#FF00AA 60%,#FF00AA 100%);
+background: -o-linear-gradient(-45deg,  #FF00AA 0%,#FF00AA 40%,#FF90DA 50%,#FF00AA 60%,#FF00AA 100%);
+background: -ms-linear-gradient(-45deg,  #FF00AA 0%,#FF00AA 40%,#FF90DA 50%,#FF00AA 60%,#FF00AA 100%);
+background: linear-gradient(135deg,  #FF00AA 0%,#FF00AA 40%,#FF90DA 50%,#FF00AA 60%,#FF00AA 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF00AA', endColorstr='#FF00AA',GradientType=1 );
+background-repeat: no-repeat;  
+background-position:0px;
+background-size:300%;  
+}
+
+.light:hover{
+animation:light 1s;
+-webkit-animation:light 1s;
+
+}
+
+@keyframes light {
+0% {
+    background-position:-600px; 
+}
+100% { 
+    background-position:0px; 
+}
+}
+    
+@-webkit-keyframes light {
+0% {
+    background-position:-600px; 
+}
+100% { 
+    background-position:0px; 
+}
+}
+
+.bounce:hover{
+animation:bounce 1s;
+-webkit-animation:bounce 1s;
+
+}
