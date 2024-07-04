@@ -32,6 +32,7 @@
     text-decoration: none;
     background-color: #fff;
     border: none;
+    color: black;
 }
 
 .arrow {
@@ -51,7 +52,7 @@
     }
 
     &:hover {
-        color: #FF00AA;
+        color: black;
 
         &::after {
             -webkit-transform: translateX(10px);
@@ -68,5 +69,5 @@
 }
 
 .navbar a:hover{
-    box-shadow: 0 25px 25px rgba(0, 0, 0, .2);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .2);
 }
