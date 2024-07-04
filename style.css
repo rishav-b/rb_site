@@ -1,6 +1,9 @@
 @font-face {
     font-family: myDisplay;
     src: url("../site/SFPRODISPLAYBOLD.otf");
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
 }
 h1 {
     text-align: center;
