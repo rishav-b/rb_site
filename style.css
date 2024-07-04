@@ -1,6 +1,6 @@
 @font-face {
     font-family: myDisplay;
-    src: url("SFPRODISPLAYBOLD.otf");
+    src: url("SFPRODISPLAYBOLD.otf") format('opentype');
 }
 
 
