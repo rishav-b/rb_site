@@ -28,6 +28,11 @@ inline {
     padding: 1rem;
 }
 
+.contact h2 {
+    font-family: "myDisplay";
+    font-size: 30px;
+}
+
 .contact:hover {
     box-shadow: 0 15px 15px rgba(0,0,0,0.2);
 }
