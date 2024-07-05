@@ -26,6 +26,7 @@ inline {
     border-radius: 30px;
     display: inline-block;
     padding: 1rem;
+    margin: 10px;
 }
 
 .contact h2 {
@@ -41,8 +42,15 @@ inline {
     font-family: "mySans";
 }
 
+p:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 .contact img {
     border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
