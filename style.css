@@ -25,6 +25,7 @@ inline {
     background-color: #F5F5F5;
     border-radius: 30px;
     display: inline-block;
+    padding: 1rem;
 }
 
 .contact p {
