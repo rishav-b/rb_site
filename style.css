@@ -28,6 +28,10 @@ inline {
     padding: 1rem;
 }
 
+.contact:hover {
+    box-shadow: 0 15px 15px rgba(0,0,0,0.2);
+}
+
 .contact p {
     font-family: "mySans";
 }
