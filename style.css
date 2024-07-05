@@ -16,9 +16,21 @@
     overflow: hidden;
 }
 
-inline {
+.inline {
     display: inline-block;
 }
+
+.contact p {
+    font-family: "mySans";
+    border: 1 px solid #F5F5F5;
+    background-color: #F5F5F5;
+    border-radius: 30px;
+}
+
+.contact img {
+    border-radius: 20px;
+}
+
 p {
     font-family: "mySans";
 }
