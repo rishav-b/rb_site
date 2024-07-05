@@ -24,10 +24,9 @@ inline {
     border: 1 px solid #F5F5F5;
     background-color: #F5F5F5;
     border-radius: 30px;
-    display: inline-block;
+    display: inline-grid;
     padding: 1rem;
     margin: 10px;
-    justify: left;
 }
 
 .contact h2 {
