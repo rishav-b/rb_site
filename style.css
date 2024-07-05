@@ -21,13 +21,16 @@ body {
 inline {
     display: inline-block;
 }
-
+.container {
+    height: 400px;
+}
 .contact {
     border: 1 px solid #F5F5F5;
     background-color: #F5F5F5;
     border-radius: 30px;
     display: inline-grid;
     padding: 1rem;
+    height: 400px;
     margin: 10px;
 }
 
