@@ -7,7 +7,9 @@
     font-family: "mySans";
     src: url("sf-pro-text-regular-webfont.woff2") format("woff2");
 }
-
+body {
+    font-family: "mySans";
+}
 .navbar ul{
     list-style-type: none;
     background-color: #fff;
