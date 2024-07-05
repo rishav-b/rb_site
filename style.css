@@ -27,6 +27,7 @@ inline {
     display: inline-block;
     padding: 1rem;
     margin: 10px;
+    justify: left;
 }
 
 .contact h2 {
